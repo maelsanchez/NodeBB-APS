@@ -1,0 +1,25 @@
+{
+  "name": "nodebb-aps",
+  "version": "1.0.0",
+  "description": "NodeBB package for APS",
+  "main": "library.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maelsanchez/NodeBB-APS.git"
+  },
+  "keywords": [
+    "nodebb"
+  ],
+  "author": "maels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maelsanchez/NodeBB-APS/issues"
+  },
+  "homepage": "https://github.com/maelsanchez/NodeBB-APS#readme"
+}
