@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-plugin-thad-test",
-	"url": "https://github.com/thadeuszlay/nodebb-plugin-thad-test",
+	"id": "nodebb-aps",
+	"url": "https://github.com/maelsanchez/NodeBB-APS",
 	"library": "./library.js",
 	"hooks": [
 		{
