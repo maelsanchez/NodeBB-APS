@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-aps",
+	"id": "nodebb-plugin-aps",
 	"url": "https://github.com/maelsanchez/NodeBB-APS",
 	"library": "./library.js",
 	"hooks": [

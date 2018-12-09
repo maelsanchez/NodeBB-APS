@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-aps",
+  "name": "nodebb-plugin-aps",
   "version": "1.0.0",
   "description": "NodeBB package for APS",
   "main": "library.js",
